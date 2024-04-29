@@ -18,4 +18,4 @@ the following are the pictures of the user display:
 ![imageeat](https://github.com/ST1044373BO/PetApp7/assets/161457359/f8181e70-db89-4179-9d94-49738558ab4f)
 ![imageplay](https://github.com/ST1044373BO/PetApp7/assets/161457359/663e746d-b9a5-4649-a33a-2176901685e3)
 
-the following is the video:
+
